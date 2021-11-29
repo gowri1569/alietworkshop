@@ -11,3 +11,5 @@
 ***both bold and italic type of fontstyle***
 
 [Google](https://www.google.com/)
+
+![tajmahal](https://images.indianexpress.com/2019/05/taj-mahal-amp.jpg)
